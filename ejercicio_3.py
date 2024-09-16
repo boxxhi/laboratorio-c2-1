@@ -12,7 +12,7 @@ class Window(QWidget):
     def __init__(self) -> None:
         super().__init__()
 
-        self.setWindowTitle("EJERCICIO 1")
+        self.setWindowTitle("EJERCICIO 3")
         self.setGeometry(100, 100, 400, 200)
         
         # Instanciamos nuestras `labels`
